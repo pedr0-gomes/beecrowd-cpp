@@ -1,0 +1,13 @@
+# Binários compilados
+*.exe
+*.o
+*.out
+a.out
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
