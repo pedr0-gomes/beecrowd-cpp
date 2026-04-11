@@ -3,6 +3,7 @@
 *.o
 *.out
 a.out
+bin/
 
 # Editor
 .vscode/
@@ -11,3 +12,6 @@ a.out
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Configuração local
+CLAUDE.md

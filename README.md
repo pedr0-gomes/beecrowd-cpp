@@ -9,14 +9,17 @@ Repositório de prática pessoal focado no desenvolvimento de raciocínio algor�
 
 | Pasta | Conteúdo |
 |-------|----------|
-| `Beginner/` | Problemas introdutórios — I/O, aritmética, condicionais |
-| `Strings/` | Manipulação e processamento de strings |
-| `Data_Structures/` | Filas, pilhas, listas, árvores |
-| `Graph/` | BFS, DFS, caminhos mínimos |
-| `Paradigms/` | Programação dinâmica, Greedy, Backtracking |
-| `Math/` | Teoria dos números, combinatória, geometria |
+| `src/` | Soluções, uma por arquivo |
+| `bin/` | Executáveis compilados (ignorados pelo git) |
+| `template.cpp` | Template padrão para novos problemas |
 
-Nomenclatura dos arquivos: `ID_NomeCurto.cpp` — ex: `1001_ExtremelyBasic.cpp`
+Nomenclatura dos arquivos: `ID_NomeCurto.cpp` — ex: `1252_sort-sort-sort.cpp`
+
+**Compilação**:
+```bash
+make 1252          # Compila src/1252_*.cpp → bin/1252.exe
+make clean         # Remove executáveis em bin/
+```
 
 ---
 
@@ -33,3 +36,9 @@ Nomenclatura dos arquivos: `ID_NomeCurto.cpp` — ex: `1001_ExtremelyBasic.cpp`
 ## Linguagem
 
 C++17 — compilado com `g++ -std=c++17 -Wall -Wextra`
+
+---
+
+## Links úteis
+
+- [Notion — registro de sessões](URL)
