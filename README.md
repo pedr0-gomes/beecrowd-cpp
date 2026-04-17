@@ -41,4 +41,4 @@ C++17 — compilado com `g++ -std=c++17 -Wall -Wextra`
 
 ## Links úteis
 
-- [Notion — registro de sessões](URL)
+- [Notion — registro de sessões] (https://www.notion.so/Log-de-CP-Beecrowd-345ab645e3bb8189bb56faa084b481a2?source=copy_link)
